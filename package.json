@@ -1,5 +1,5 @@
 {
-  "name": "@peer_iq/broccoli-pegjs",
+  "name": "@peeriq/broccoli-pegjs",
   "description": "PEG.js filter for Broccoli",
   "version": "1.0.0",
   "author": "Gordon L. Hempton <ghempton@gmail.com>",

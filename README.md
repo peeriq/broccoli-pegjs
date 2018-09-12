@@ -11,7 +11,7 @@ npm install --save-dev broccoli-pegjs
 ## Usage
 
 ```js
-var peg = require('broccoli-pegjs');
+var peg = require('@peeriq/broccoli-pegjs');
 tree = peg(tree, options);
 ```
 
