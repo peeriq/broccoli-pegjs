@@ -15,7 +15,7 @@
     "javascript"
   ],
   "dependencies": {
-    "broccoli-persistent-filter": "^1.4.3",
+    "broccoli-persistent-filter": "^1.4.6",
     "pegjs": "^0.10.0",
     "js-md5": "^0.7.3"
   },
